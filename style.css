@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 html {
@@ -24,6 +25,7 @@ ul {
 }
 
 /* Header Section*/
+
 .header-nav,
 .header-ul {
     display: grid;
