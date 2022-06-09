@@ -17,7 +17,6 @@ body {
     min-height: 100vh;
     padding: 1rem;
     background-size: cover;
-
 }
 
 ul {
@@ -32,7 +31,9 @@ ul {
     grid-auto-flow: column;
     justify-content: start;
     gap: 1rem;
+    padding: 5px;
     align-items: center;
+    color: white;
 }
 
 /* Main Section */
