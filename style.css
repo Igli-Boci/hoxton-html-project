@@ -33,7 +33,11 @@ ul {
     gap: 1rem;
     padding: 5px;
     align-items: center;
-    color: rgb(237, 23, 66);
+    color: rgba(255, 255, 255, 0.712);
+}
+
+.header-a {
+    color: unset;
 }
 
 /* Main Section */
